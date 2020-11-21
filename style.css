@@ -8,6 +8,12 @@ html {
     height: 100%
 }
 
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+}
+
 .bgimg {
     background-image: url('img/alan.jpg');
     min-height: 100%;
